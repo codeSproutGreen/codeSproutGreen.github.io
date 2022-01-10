@@ -15,8 +15,8 @@
 minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "ko-KR"
+title                    : "짬짬이 공부하는 직장인"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "codeSproutGreen : 새싹코더"
@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "새싹코더"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/test_bio.png"
   bio              : "함께 공부해요"
   location         : "Korea"
   email            :
